@@ -1,7 +1,7 @@
 # 中国地图 Geo JSON
 
 ## 介绍
-数据来源于DataV.GeoAtlas。文件名前6位数字是adcode。有全国、省、市、县区4个层级的数据。
+数据来源于DataV.GeoAtlas。文件名前6位数字是adcode。有全国、省、市3个层级的数据。
 
 ## 使用
 
